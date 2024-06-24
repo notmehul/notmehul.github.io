@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "About"
+name = "about"
 pageRef = "about"
 weight = 10
 
 [[main]]
-name = "Blog"
-pageRef = "blog"
+name = "notes"
+pageRef = "notes"
 weight = 20
 
 [[main]]
@@ -35,6 +35,6 @@ target = "_blank"
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-name = "Categories"
+name = "tags"
 pageRef = "tags"
 weight = 10

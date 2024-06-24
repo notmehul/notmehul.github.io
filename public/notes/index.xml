@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Political on mehul.. probably</title>
-    <link>http://localhost:1313/tags/political/</link>
-    <description>Recent content in Political on mehul.. probably</description>
+    <title>Blog on mehul.. probably</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Blog on mehul.. probably</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© fuck copyrights, foss for life</copyright>
     <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/political/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginners Guide to Anarchy in the Workplace</title>
       <link>http://localhost:1313/notes/anarchy-in-the-workplace/</link>
