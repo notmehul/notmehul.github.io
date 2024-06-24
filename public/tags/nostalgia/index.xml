@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nostalgia on probably mehul</title>
+    <link>http://localhost:1313/tags/nostalgia/</link>
+    <description>Recent content in Nostalgia on probably mehul</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© fuck copyrights, foss for life</copyright>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Dynamic Duo</title>
+      <link>http://localhost:1313/blog/my-dynamic-duo/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-dynamic-duo/</guid>
+      <description>Disclaimer: This post is absolutely not about my butt curves.</description>
+    </item>
+  </channel>
+</rss>
