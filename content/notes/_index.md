@@ -1,17 +1,14 @@
 ---
-title: "Blog"
-description: "Root for blogs"
+title: "notes"
+description: "base where all blogs rest"
 
 cascade:
   showEdit: false
-  showSummary: true
+  showSummary: false
 ---
 
 {{< lead >}}
-
-why not substack? cos i hate privacy evading software
-
-kindof a blog? mostly notes. fun shit only tho i dont do boring
+the base where all blogs rest
 {{< /lead >}}
 
 ---

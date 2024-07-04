@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualia on mehul.. probably</title>
+    <link>http://localhost:1313/tags/qualia/</link>
+    <description>Recent content in Qualia on mehul.. probably</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© fuck copyrights, foss for life</copyright>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/qualia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purple and the consious experience</title>
+      <link>http://localhost:1313/notes/purple/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/purple/</guid>
+      <description>fuck big tech Purple [PUR] + [PUL] #The color worn by Roman magistrates.</description>
+    </item>
+  </channel>
+</rss>

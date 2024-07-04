@@ -1,7 +1,7 @@
 +++
 author = "probably mehul"
 title = "Beginners Guide to Anarchy in the Workplace"
-date = 2024-06-24
+date = 2024-06-10
 description = "fuck big tech"
 tags = ["workplace", "political"]
 enableEmoji = true
