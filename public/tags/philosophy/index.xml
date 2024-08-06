@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notes on mehul.. probably</title>
-    <link>http://localhost:1313/notes/</link>
-    <description>Recent content in notes on mehul.. probably</description>
+    <title>Philosophy on mehul.. probably</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on mehul.. probably</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© fuck copyrights, foss for life</copyright>
     <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Depression is kil</title>
       <link>http://localhost:1313/notes/depression/</link>
@@ -22,20 +22,6 @@
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/freedom/</guid>
       <description>In todays world, we are more free than humans have ever been throughout history.</description>
-    </item>
-    <item>
-      <title>Purple and the consious experience</title>
-      <link>http://localhost:1313/notes/purple/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/purple/</guid>
-      <description>Purple [PUR] + [PUL] #The color worn by Roman magistrates.</description>
-    </item>
-    <item>
-      <title>Beginners Guide to Anarchy in the Workplace</title>
-      <link>http://localhost:1313/notes/anarchy/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/anarchy/</guid>
-      <description>fuck big tech first of all, if you’re not an anarchist, idk what to say to you, go do a BuzzFeed quiz or smth.</description>
     </item>
   </channel>
 </rss>

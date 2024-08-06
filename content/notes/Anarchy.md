@@ -1,7 +1,7 @@
 +++
 author = "probably mehul"
 title = "Beginners Guide to Anarchy in the Workplace"
-date = 2024-06-10
+date = 2024-01-01
 description = "fuck big tech"
 tags = ["workplace", "political"]
 enableEmoji = true
@@ -18,9 +18,9 @@ now for the anarchists, you need to figure out one essential thing. what you wan
     “Don't just be another cog in the system, be a square peg in round holes.”
     ~Gandhi (probably)
 
-you have to be interdisciplinary, eg. a marketing+analytics person, a developer who can also do finances, an AI researcher who can talk to women, anything. 
+you have to be interdisciplinary, eg. a marketing+analytics person, a developer who can also do finances, an AI researcher who can talk to women, anything.
 
-this will ensure that your employer cannot fire you because of your unique skillset. with this set, you can start spreading your influence. 
+this will ensure that your employer cannot fire you because of your unique skillset. with this set, you can start spreading your influence.
 
 now as an anarchist, you want **chaos**, not order, so you do not have to care about being nice to your coworkers (doesn’t mean you gotta be rude but that part is totally up to you) and *as they can't fire you*, you will not be having any major problems with the HR.
 
@@ -36,7 +36,7 @@ start suggesting meaningful changes in the main product of the company, this wil
 
 doing this, steadily climb up the hierarchy until one day you’re sitting with the CEO and having a sketchy discussion.
 
-now here, you have two choices, let’s go through both: 
+now here, you have two choices, let’s go through both:
 
 1. you can fake-agree with them (cos the only thing you really believe in is the perpetration of chaos in the world). this will give you short-term gains, and if he turns out to be wrong in the future, you were supporting them at one point so they will respect the comradeship (LAME 👎)
 
@@ -44,7 +44,7 @@ now here, you have two choices, let’s go through both:
 
 now you are in a position to rat them out to the board and take over. If you don't have evidence, **forge it**. this should be your goal, to be in talks with the board and oust the present ruler of the empire called your workplace
 
-now that you have power over the company and what it does, you have to make sure not to forget your roots. 
+now that you have power over the company and what it does, you have to make sure not to forget your roots.
 
 this is **important**, many people lose the game at this point.
 
@@ -76,9 +76,9 @@ now shut down power to the workplace for a few hours then open the gates
 
 the permanently damaged, employees will now have trauma and will quit and ruin all the other companies they work at
 
-now that your employees are permanently damaged. this is your time to give a speech, explain to them how society is fake, deserves to get cleansed and that pure *chaos everywhere* is the only solution to it. make them watch Mad Max if it helps. 
+now that your employees are permanently damaged. this is your time to give a speech, explain to them how society is fake, deserves to get cleansed and that pure *chaos everywhere* is the only solution to it. make them watch Mad Max if it helps.
 
-now that they are in your cult and will listen to anything you tell them. ask them to put on a victim mask because they were victims of a very toxic culture. this will help them get hired at other firms. 
+now that they are in your cult and will listen to anything you tell them. ask them to put on a victim mask because they were victims of a very toxic culture. this will help them get hired at other firms.
 
 after they get another job, explain to them how you infiltrated the old company and ask them to repeat the cycle.
 

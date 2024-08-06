@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "cherry"        # valid options: congo, avocado, fire, ocean, slate
+colorScheme = "cherry"       # valid options: congo, avocado, fire, ocean, slate
 defaultAppearance = "dark"   # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -31,7 +31,7 @@ layout = "profile" # valid options: page, profile, custom
 showRecent = false
 
 [article]
-showDate = true
+showDate = false
 showDateUpdated = false
 showAuthor = true
 showBreadcrumbs = true
@@ -46,13 +46,13 @@ showTableOfContents = true
 showTaxonomies = false
 showWordCount = true
 showComments = false
-# sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+sharingLinks = ["twitter", "reddit", "linkedin", "email"]
 
 [list]
 showBreadcrumbs = false
 showSummary = true
 showTableOfContents = false
-groupByYear = true
+groupByYear = false
 
 [sitemap]
 excludedKinds = ["taxonomy", "term"]
@@ -65,4 +65,3 @@ showTermCount = true
 # bing = ""
 # pinterest = ""
 # yandex = ""
-
