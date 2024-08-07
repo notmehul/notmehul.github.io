@@ -1,6 +1,6 @@
 +++
 author = "probably mehul"
-title = "Purple and the consious experience"
+title = "Purple and the conscious experience"
 date = 2024-01-30
 description = "tell me, how do you feel"
 tags = ["Qualia", "Cognition"]
