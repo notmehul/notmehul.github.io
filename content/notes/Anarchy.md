@@ -3,7 +3,7 @@ author = "probably mehul"
 title = "Beginners Guide to Anarchy in the Workplace"
 date = 2024-01-01
 description = "fuck big tech"
-tags = ["workplace", "political"]
+tags = ["Workplace", "Politics"]
 enableEmoji = true
 +++
 
