@@ -65,12 +65,15 @@ meant for purely aesthetic purposes, I do not intend to replace any artists.
 {{< figure src="mars-when.jpg" title="very soon" height=75% width=75% >}}
 {{< figure src="stabme.jpg" title="me i am your dagger" height=75% width=75% >}}
 {{< figure src="edgarallanpoe.jpg" title="edgar allan poe" height=75% width=75% >}}
+{{< figure src="pride.jpg" title="love is love" height=75% width=75% >}}
 {{< figure src="fowers.jpg" title="for you <3" height=75% width=75% >}}
 {{< figure src="bowie.jpg" title="is that david bowie?" height=75% width=75% >}}
-{{< figure src="dr-manhattan.jpg" title="our saviour" height=75% width=75% >}}
 {{< figure src="abcd.jpg" title="Pikachu assembly manual" height=75% width=75% >}}
+{{< figure src="starry-night.jpg" title="starry starry night" height=75% width=75% >}}
+{{< figure src="moon.jpg" title="this used to be my fav at one point" height=75% width=75% >}}
+{{< figure src="hanl.jpg" title="a quick one before the eternal worm devours connecticut" height=75% width=75% >}}
+{{< figure src="sd.jpg" title="a random frame from before my laptop crashed during stable diffusion" height=75% width=75% >}}
 {{< figure src="bongo.jpg" title="a chemistry experiment" height=75% width=75% >}}
-{{< figure src="ramen.jpg" title="cool food" height=75% width=75% >}}
-{{< figure src="helo-dino.jpg" title="hi dino(current phone wallpaper)" height=75% width=75% >}}
+
 
 ---
