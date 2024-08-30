@@ -27,7 +27,7 @@ The best part? these robot workers *do not require to be paid, get sick, or take
 
 China is already leagues ahead of the US in this aspect. Simple example, almost every toll booth in china has a robotic arm which takes the ticket, gives it to the driver and collects the cash. Okay from a logistic perspective it is not an efficient system. This can easily be solved with a dispenser machine for example but look at the amount of data being collected. One billion people live in china, the us has one third of that which means the states will take 3 times the number of years to generate the same quantity of data. And as you know
 
-> data is the new oil 
+> Data is the new oil 
 
 As cringe as the statement has gotten in twitter circles, it is true. And southeast asia is the new middle east.
 
